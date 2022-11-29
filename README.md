@@ -1,5 +1,26 @@
 **CODE-CHALLANGE**
 
+**DESCRIPTION**
+This is a practice code challange
+
+**GETTING STARTED**
+In order for you to use the conted of this repo,follow the following
+
+Open a terminal / command line interface on your computer
+- Clone the repo by using the following:
+
+        git clone git@github.com:Icika-max/TOY_CHALLANGE_1.git
+        
+- Be patient as it creates a copy on your local machine for you.
+- Change directory to the repo folder:
+
+        cd TOY_CHALLANGE_1
+
+- Open it in ``Visual Studio Code``
+
+        code .
+
+
 **GOALS**
 
 Writing a programe that calculates the grades of the students
@@ -11,6 +32,7 @@ Writing a prigrame thatcalculates the net salary ofan indiviual
 **CHALLANGE 1; GRADE CALCULATOR**
 
 The programme prompts the user to input student marks. The input should be between 0 and 100. Then output the correct gradeuing the if else statement.
+Enter the student marks and the program will generate the grade
 
 **CHALLANGE 2; SPEED DETECTOR**
 
@@ -24,7 +46,7 @@ KRA, NHIF and NSSF values ar provide in th link: https://www.aren.co.ke/payroll/
 
 **AUTHOR**
 This project was written by:
-   .kennedy icika
+   kennedy icika
    
 **LICENCE**
 This project is licenced under Apache 2.0
